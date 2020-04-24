@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Mr.Pham";
+var truth = "Change from 123 to 4567";
